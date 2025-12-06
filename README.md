@@ -1,12 +1,20 @@
 🌟 GenAI Projects Repository
 
-A collection of practical Generative AI and RAG-based projects built using LangChain, vector databases, and modern LLMs. Each project demonstrates real-world applications in a simple, production-ready format.
+A collection of modern Generative AI applications built using LLMs, LangChain, vector databases, and deep learning.
+This repository serves as a structured hub for experimenting with RAG pipelines, conversational AI, text processing, and multimodal GenAI workflows.
 
-🚀 Included Projects
-📄 PDF RAG Chatbot
+✨ Features
 
-Ask questions from uploaded PDFs using Retrieval-Augmented Generation (RAG) with LangChain + ChromaDB.
+End-to-end GenAI implementations
 
-🔍 Mini LangChain RAG Project
+RAG pipelines with embeddings & vector search
 
-A lightweight example showing the fundamentals of RAG: document loading, embeddings, vector search, and LLM responses.
+Clean, modular, and scalable code structure
+
+Streamlit-based interactive interfaces
+
+Easily extendable for new GenAI experiments
+
+🛠️ Tech Stack
+
+Python, LangChain, OpenAI/LLaMA, HuggingFace, ChromaDB, FAISS, Streamlit, Diffusers
