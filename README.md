@@ -1,20 +1,45 @@
-🌟 GenAI Projects Repository
+# 🧠 Generative AI Projects Repository
 
-A collection of modern Generative AI applications built using LLMs, LangChain, vector databases, and deep learning.
-This repository serves as a structured hub for experimenting with RAG pipelines, conversational AI, text processing, and multimodal GenAI workflows.
+Welcome to my **Generative AI Projects** repository!  
+This repository contains hands-on projects focused on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and real-world GenAI applications.
 
-✨ Features
+The goal of this repository is to explore how modern generative models can be integrated into practical systems such as chatbots, document assistants, and AI-powered tools.
 
-End-to-end GenAI implementations
+---
 
-RAG pipelines with embeddings & vector search
+## 📌 About This Repository
 
-Clean, modular, and scalable code structure
+This repository is built to:
+- Understand and apply Generative AI concepts
+- Build real-world LLM-powered applications
+- Experiment with prompt engineering and RAG pipelines
+- Explore open-source and API-based LLMs
+- Create production-oriented GenAI workflows
 
-Streamlit-based interactive interfaces
+---
 
-Easily extendable for new GenAI experiments
+## 🧠 Concepts Covered
 
-🛠️ Tech Stack
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
+- Document Q&A Systems
+- AI Chatbots
+- Context Management
+- Model Inference & Optimization
 
-Python, LangChain, OpenAI/LLaMA, HuggingFace, ChromaDB, FAISS, Streamlit, Diffusers
+---
+
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **LLM Frameworks:**  
+  - LangChain  
+  - LlamaIndex  
+- **Models:**  
+  - OpenAI / Ollama / Open-source LLMs  
+- **Vector Databases:**  
+  - ChromaDB / FAISS  
+- **Frontend (where applicable):**  
+  - Streamlit / Gradio  
